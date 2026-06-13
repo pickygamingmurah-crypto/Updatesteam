@@ -24348,6 +24348,24 @@
             "drive_id": "https://generator.ryuu.lol/fixes/Bloody Spell.zip",
             "filename": "Bloody Spell.zip",
             "description": "Fix untuk 嗜血印 Bloody Spell. Ukuran: 5.0 MB. Status: Fix."
+        },
+        {
+            "id": "fx_01",
+            "judul": "Black Myth: Wukong",
+            "appid": "2358720",
+            "img_url": "assets/covers/fx_01.jpg",
+            "drive_id": "1kbw0zxhPIiZoAllcVLJLa7lhK8ecLvcj",
+            "filename": "wukong.zip",
+            "description": "Fix Kera Sakti"
+        },
+        {
+            "id": "fx_02",
+            "judul": "Forza Horizon 6",
+            "appid": "2483190",
+            "img_url": "assets/covers/fx_02.jpg",
+            "drive_id": "11pFHctU3whGWNKmLbnt3CNZxbdDLMztc",
+            "filename": "ForzaHorizon6.zip",
+            "description": "Fix Game Forza Horizon 6"
         }
     ]
 }
