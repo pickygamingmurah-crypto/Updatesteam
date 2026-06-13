@@ -20195,6 +20195,15 @@
             "drive_id": "1VIV7uQ677jU_yAk-L28nUgyCao3_PpE4",
             "filename": "Persona® 5 Strikers.zip",
             "description": "Tambahkan Persona® 5 Strikers"
+        },
+        {
+            "id": "bp_3362999",
+            "judul": "masukan Stellar Blade™",
+            "appid": "3489700",
+            "img_url": "assets/covers/bp_3362999.jpg",
+            "drive_id": "1IP5boiu7WiFVoBxqklY7CZv6HM7mW91_",
+            "filename": "stellar.zip",
+            "description": "Tambah Stellar Blade™"
         }
     ],
     "online_fix": [
