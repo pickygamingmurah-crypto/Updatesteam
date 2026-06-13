@@ -20123,6 +20123,78 @@
             "drive_id": "",
             "filename": "",
             "description": "Tambah game 👑 Idle Calibur 👑（选王之剑）"
+        },
+        {
+            "id": "bp_3362991",
+            "judul": "PRAGMATA",
+            "appid": "3357650",
+            "img_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016",
+            "drive_id": "1L7BjNg87O7Cff8d7XfDTMFcYpliZOE_P",
+            "filename": "pragmata.zip",
+            "description": "Tambahkan Game PRAGMATA"
+        },
+        {
+            "id": "bp_3362992",
+            "judul": "007 First Light",
+            "appid": "3768760",
+            "img_url": "assets/covers/bp_3362992.jpg",
+            "drive_id": "1vsqtF3N9ob8ZShA8cobmx87fbwb2KswC",
+            "filename": "007 First Light.zip",
+            "description": "Tambahhkan Game 007 First Light"
+        },
+        {
+            "id": "bp_3362993",
+            "judul": "Persona 3 Portable",
+            "appid": "1809700",
+            "img_url": "assets/covers/bp_3362993.jpg",
+            "drive_id": "1-ZdeyZHTWUaKE5aIjG1NQYsh_jj-ncTY",
+            "filename": "Persona 3 Portable.zip",
+            "description": "Tambahkan Persona 3 Portable"
+        },
+        {
+            "id": "bp_3362994",
+            "judul": "Persona 3 Reload",
+            "appid": "2161700",
+            "img_url": "assets/covers/bp_3362994.jpg",
+            "drive_id": "1JhXdNLGm5_lxS72sMSETMTxhyDlnXHcP",
+            "filename": "Persona 3 Reload.zip",
+            "description": "Tambahkan Persona 3 Reload"
+        },
+        {
+            "id": "bp_3362995",
+            "judul": "Persona 4 Arena Ultimax",
+            "appid": "1602010",
+            "img_url": "assets/covers/bp_3362995.jpg",
+            "drive_id": "1jwQ1De2SBknqVyVWVNjefmzKlcTeh3ry",
+            "filename": "Persona 4 Arena Ultimax.zip",
+            "description": "Tambahkan Persona 4 Arena Ultimax"
+        },
+        {
+            "id": "bp_3362996",
+            "judul": "Persona 4 Golden",
+            "appid": "1113000",
+            "img_url": "assets/covers/bp_3362996.jpg",
+            "drive_id": "1GIdtFybNePVjz1Lz1VZWk0Uc23Lw6kzU",
+            "filename": "Persona 4 Golden.zip",
+            "description": "Tambahkan Persona 4 Golden"
+        },
+        {
+            "id": "bp_3362997",
+            "judul": "Persona 5 Royal",
+            "appid": "1687950",
+            "img_url": "assets/covers/bp_3362997.jpg",
+            "drive_id": "1NgWweAwEA6TuS2W1_5CIHfghTAKJoLif",
+            "filename": "Persona 5 Royal.zip",
+            "description": "Tambahkan Persona 5 Royal"
+        },
+        {
+            "id": "bp_3362998",
+            "judul": "Persona® 5 Strikers",
+            "appid": "1382330",
+            "img_url": "assets/covers/bp_3362998.jpg",
+            "drive_id": "1VIV7uQ677jU_yAk-L28nUgyCao3_PpE4",
+            "filename": "Persona® 5 Strikers.zip",
+            "description": "Tambahkan Persona® 5 Strikers"
         }
     ],
     "online_fix": [
