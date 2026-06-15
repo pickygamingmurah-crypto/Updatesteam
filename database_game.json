@@ -14014,33 +14014,6 @@
             "description": "tambah game Sniper Elite"
         },
         {
-            "id": "bp_128",
-            "judul": "Sniper Elite 3",
-            "appid": "238090",
-            "img_url": "assets/covers/bp_128.jpg",
-            "drive_id": "1l-TlkQO0S3s-TqM4iBVGueI_XoL8cHRa",
-            "filename": "sniper_elite3.zip",
-            "description": "tambah game Sniper Elite 3"
-        },
-        {
-            "id": "bp_127",
-            "judul": "Sniper Elite 4",
-            "appid": "312660",
-            "img_url": "assets/covers/bp_127.jpg",
-            "drive_id": "1a2XEuc72fzRh5qiX51rNvCjfJkSLB39s",
-            "filename": "sniper_elite4.zip",
-            "description": "tambah game Sniper Elite 4"
-        },
-        {
-            "id": "bp_126",
-            "judul": "Sniper Elite 5",
-            "appid": "1029690",
-            "img_url": "assets/covers/bp_126.jpg",
-            "drive_id": "1DcRBlkGT2ma9ieruEImBBQxezL09pANF",
-            "filename": "sniper_elite5.zip",
-            "description": "tambah game Sniper Elite 5"
-        },
-        {
             "id": "bp_63380",
             "judul": "Sniper Elite V2",
             "appid": "63380",
