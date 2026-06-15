@@ -1054,15 +1054,6 @@
             "description": "Tambah game Assassin's Creed™: Director's Cut Edition"
         },
         {
-            "id": "bp_85",
-            "judul": "Assassin’s Creed Shadows",
-            "appid": "3159330",
-            "img_url": "assets/covers/bp_85.jpg",
-            "drive_id": "1STB9DiMXFD9wfIEpYMXjEOX6TY2BDvhu",
-            "filename": "assassins_creed_shadows.zip",
-            "description": "tambah game Assassin’s Creed Shadows"
-        },
-        {
             "id": "bp_86",
             "judul": "Assassin’s Creed® IV Black Flag™",
             "appid": "242050",
