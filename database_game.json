@@ -8695,6 +8695,15 @@
             "description": "Unlock LEGO® Batman™: Legacy of the Dark Knight expansion bypass instantly."
         },
         {
+            "id": "bp_22152001",
+            "judul": "1LEGO® Batman™: Legacy of the Dark Knight",
+            "appid": "2215200",
+            "img_url": "assets/covers/bp_04.jpg",
+            "drive_id": "1tQaSfVddYamW92f5TEWHBBtWy0QF9J6S",
+            "filename": "lego_batman_lotdk.zip",
+            "description": "Unlock LEGO® Batman™: Legacy of the Dark Knight expansion bypass instantly."
+        },
+        {
             "id": "bp_21000",
             "judul": "LEGO® Batman™: The Videogame",
             "appid": "21000",
